@@ -1,1 +1,11 @@
-/* Add your styles here */
+body {
+    background-color: burlywood;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border: solid;
+    border-width: 3px;
+    color: #423e34;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
